@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/cptntz2119/tinyAppReview/issues"
   },
-  "homepage": "https://github.com/cptntz2119/tinyAppReview#readme"
+  "homepage": "https://github.com/cptntz2119/tinyAppReview#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
 }
